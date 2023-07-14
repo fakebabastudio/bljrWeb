@@ -1,0 +1,28 @@
+* {
+    color: white;
+}
+
+p {
+    font-size: 20px;
+}
+
+body {
+    background: rgb(5, 10, 56);
+}
+
+h1 {
+    color: red;
+}
+
+#judul{
+    color: azure;
+    font-size: 25px;
+}
+
+.menu{
+    text-decoration: none;
+}
+
+.text-bold{
+    font-weight: bold;
+}
